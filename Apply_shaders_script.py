@@ -1,7 +1,7 @@
 import sys
 import os
 
-sys.path.append("/aslan/projects/Custom_scripts/Girijashankar/Codes/marakkar")
+sys.path.append("/drive/common_funcs_path")
 import Mkr_common_funcs.mkr_common_funcs as com_func
 import Mkr_common_funcs.mkr_logic_funcs as log_func
 #reload(com_func)
